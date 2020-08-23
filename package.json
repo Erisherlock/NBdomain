@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bitidentity": "^1.0.31",
     "cat-me": "^1.0.3",
     "nblib": "^1.0.15"
   }
